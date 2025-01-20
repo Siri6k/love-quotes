@@ -55,7 +55,7 @@ const App = () => {
       )}
       {showCarousel && (
         <div className="container">
-          <h2>Pour Dieupa, avec amour</h2>
+          <h2>💓 Dieupa 💞</h2>
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
