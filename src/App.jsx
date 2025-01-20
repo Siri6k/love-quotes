@@ -8,17 +8,17 @@ const quotes = [
   {
     text: "I can live only wholly with you or not at all.",
     author: "Ludwig van Beethoven",
-    image: "assets/bg2.png",
+    image: "assets/bg3.png",
   },
   {
     text: "Love is a special word, and I use it only when I mean it.",
     author: "Ray Charles",
-    image: "assets/bg3.png",
+    image: "assets/bg5.png",
   },
   {
     text: "Love is supreme and unconditional; like is nice but limited.",
     author: "Duke Ellington",
-    image: "assets/bg4.png",
+    image: "assets/bg2.png",
   },
   {
     text: "For suddenly, I saw you there, And through foggy London town, The sun was shining everywhere.",
