@@ -6,28 +6,28 @@ import "./App.css";
 
 const quotes = [
   {
-    text: "I can live only wholly with you or not at all.",
-    author: "Ludwig van Beethoven",
+    text: "Fuck what I said, it don't mean shit now.",
+    author: "🖕🖕🖕🖕🖕",
     image: "assets/bg3.png",
   },
   {
-    text: "Love is a special word, and I use it only when I mean it.",
-    author: "Ray Charles",
+    text: "Fuck the presents, might as well throw 'em out.",
+    author: "🖕🖕🖕🖕🖕🖕",
     image: "assets/bg5.png",
   },
   {
-    text: "Love is supreme and unconditional; like is nice but limited.",
-    author: "Duke Ellington",
+    text: "Fuck you, you ho, I don't want you back",
+    author: "🖕🖕🖕🖕🖕🖕",
     image: "assets/bg2.png",
   },
   {
-    text: "For suddenly, I saw you there, And through foggy London town, The sun was shining everywhere.",
-    author: "George Gershwin",
+    text: "Fuck what I said, it don't mean shit now.",
+    author: "🖕🖕🖕🖕🖕🖕",
     image: "assets/bg5.png",
   },
   {
-    text: "Love is like a faucet, it turns off and on.",
-    author: "Billie Holiday",
+    text: "Fuck you, you ho, I don't want you back",
+    author: "🖕🖕🖕🖕🖕🖕🖕🖕",
     image: "assets/bg3.png",
   },
 ];
@@ -49,13 +49,13 @@ const App = () => {
             className="img-fluid"
           />
           <button className="btn btn-primary" onClick={handleButtonClick}>
-            Cliquez Ici !
+            🖕🖕🖕🖕🖕🖕
           </button>
         </div>
       )}
       {showCarousel && (
         <div className="container">
-          <h2>💓 Dieupa 💞</h2>
+          <h2>Fuck you Dieupa 🖕🖕🖕🖕🖕</h2>
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -81,8 +81,8 @@ const App = () => {
       )}
       <footer className="footer">
         <p>
-          Copyright 2025 - Your beloved{" "}
-          <span style={{ color: "red" }}>Adamchrisk</span>
+          Copyright 2025 - Bad bitch{" "}
+          <span style={{ color: "red" }}>🖕🖕🖕</span>
         </p>
       </footer>
     </div>
